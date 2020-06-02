@@ -1,0 +1,14 @@
+{
+  "name": "coursework",
+  "version": "1.0.0",
+  "description": "My first website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o distributable/css/ --recursive"
+  },
+  "author": "Niilo Liimatainen",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
