@@ -51,6 +51,24 @@
       height: 150px;
     }
   }
+
+  .work {
+    &-1 {
+      grid-column: span 1;
+    }
+
+    &-2 {
+      grid-row: span 1;
+    }
+
+    &-3 {
+      grid-row: span 1;
+    }
+
+    &-4 {
+      grid-column: span 1;
+    }
+  }
 }
 
 // Smartphones
@@ -69,23 +87,5 @@
 
   .grid-container {
     grid-template-columns: 1fr;
-
-    .work {
-      &-1 {
-        grid-column: span 1;
-      }
-
-      &-2 {
-        grid-row: span 1;
-      }
-
-      &-3 {
-        grid-row: span 1;
-      }
-
-      &-4 {
-        grid-column: span 1;
-      }
-    }
   }
 }
