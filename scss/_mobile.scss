@@ -69,6 +69,12 @@
       grid-column: span 1;
     }
   }
+
+  .boxes {
+    div {
+      font-size: 1.4rem;
+    }
+  }
 }
 
 // Smartphones
@@ -87,5 +93,11 @@
 
   .grid-container {
     grid-template-columns: 1fr;
+  }
+
+  .boxes {
+    div {
+      font-size: 1.3rem;
+    }
   }
 }
