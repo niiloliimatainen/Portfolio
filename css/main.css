@@ -127,15 +127,15 @@ body {
 
 @keyframes slide {
   0% {
-    background-image: url(../img/backgrounds/background1.jpg); }
+    background-image: url(../img/Backgrounds/background1.jpg); }
   25% {
-    background-image: url(../img/backgrounds/background2.jpg); }
+    background-image: url(../img/Backgrounds/background2.jpg); }
   50% {
-    background-image: url(../img/backgrounds/background3.jpg); }
+    background-image: url(../img/Backgrounds/background3.jpg); }
   75% {
-    background-image: url(../img/backgrounds/background4.jpg); }
+    background-image: url(../img/Backgrounds/background4.jpg); }
   100% {
-    background-image: url(../img/backgrounds/background1.jpg); } }
+    background-image: url(../img/Backgrounds/background1.jpg); } }
 
 h1,
 h2,
